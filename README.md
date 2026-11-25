@@ -1,7 +1,7 @@
 # learning-python
 these are some mini projects I am doing to get more comfortable with learning and understanding python and actually building projects from scratch and not from starter code
 
-#Solar System Quiz
+# Solar System Quiz
 this is an 8-question quiz that determines whether the user can name each of the planets in order of how close they are to the sun.
 How to run the game:
 run the code directly inside the terminal or command prompt
